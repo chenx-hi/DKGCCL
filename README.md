@@ -1,4 +1,4 @@
-# Dual-Kernel Graph Community Contrastive Learning
+# Dual-Kernel Graph Community Contrastive Learning (AAAI 2026)
 
 Tested with Python 3.7, PyTorch 1.12.1, and PyTorch Geometric 2.3.1, dgl 1.0.2.
 
